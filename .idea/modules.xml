@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DrivingApp.iml" filepath="$PROJECT_DIR$/DrivingApp.iml" />
+      <module fileurl="file://E:\APK_FER\LF\DrivingApp\DrivingApp.iml" filepath="E:\APK_FER\LF\DrivingApp\DrivingApp.iml" />
+      <module fileurl="file://C:\Users\Cipriano\Documents\AndroidStudioProjects\Proy\DrivingAppGit\v1\DrivingApp\DrivingApp.iml" filepath="C:\Users\Cipriano\Documents\AndroidStudioProjects\Proy\DrivingAppGit\v1\DrivingApp\DrivingApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://E:\APK_FER\LF\DrivingApp\app\app.iml" filepath="E:\APK_FER\LF\DrivingApp\app\app.iml" />
+      <module fileurl="file://C:\Users\Cipriano\Documents\AndroidStudioProjects\Proy\DrivingAppGit\v1\DrivingApp\app\app.iml" filepath="C:\Users\Cipriano\Documents\AndroidStudioProjects\Proy\DrivingAppGit\v1\DrivingApp\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cenidetsdk/cenidetsdk.iml" filepath="$PROJECT_DIR$/cenidetsdk/cenidetsdk.iml" />
+      <module fileurl="file://E:\APK_FER\LF\DrivingApp\cenidetsdk\cenidetsdk.iml" filepath="E:\APK_FER\LF\DrivingApp\cenidetsdk\cenidetsdk.iml" />
+      <module fileurl="file://C:\Users\Cipriano\Documents\AndroidStudioProjects\Proy\DrivingAppGit\v1\DrivingApp\cenidetsdk\cenidetsdk.iml" filepath="C:\Users\Cipriano\Documents\AndroidStudioProjects\Proy\DrivingAppGit\v1\DrivingApp\cenidetsdk\cenidetsdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ngsi/ngsi.iml" filepath="$PROJECT_DIR$/ngsi/ngsi.iml" />
+      <module fileurl="file://E:\APK_FER\LF\DrivingApp\ngsi\ngsi.iml" filepath="E:\APK_FER\LF\DrivingApp\ngsi\ngsi.iml" />
+      <module fileurl="file://C:\Users\Cipriano\Documents\AndroidStudioProjects\Proy\DrivingAppGit\v1\DrivingApp\ngsi\ngsi.iml" filepath="C:\Users\Cipriano\Documents\AndroidStudioProjects\Proy\DrivingAppGit\v1\DrivingApp\ngsi\ngsi.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DrivingApp</string>
+    <string name="phone">Teléfono</string>
+    <string name="password">Contraseña</string>
+    <string name="log_in">Iniciar sesión</string>
+    <string name="name">Nombre</string>
+    <string name="last_name">Apellido</string>
+    <string name="sign_up">Registrarse</string>
+    <string name="email">Email</string>
+    <string name="cancel">Cancelar</string>
+    <string name="confirm_password">Confirmar contraseña</string>
+    <string name="remember_user">Recordar usuario</string>
+
+
+    <!--Drawer and Tabs-->
+    <string name="menu_home">Inicio</string>
+    <string name="menu_speed">Mi velocidad</string>
+    <string name="menu_campus_map">Mapa del campus</string>
+    <string name="menu_alerts">Mis alertas</string>
+    <string name="menu_my_campus">Mis campus</string>
+    <string name="menu_my_location">Mi localización</string>
+    <string name="menu_profile">Mi perfil</string>
+    <string name="menu_settings">Configuración</string>
+    <string name="menu_logout">Cerrar sesión</string>
+
+
+    <!--Messages-->
+    <string name="message_valid_email">El email no es válido. Inténtalo de nuevo.</string>
+    <string name="message_valid_password">La contraseña no es valida, intente de nuevo.</string>
+    <string name="message_user_not_found">Email o contraseña incorrectas, intentelo de nuevo.</string>
+    <string name="message_login_not_found">Error al iniciar sesión.</string>
+
+    <!--Dialog alerts-->
+    <string name="message_alert_gps">El GPS está desactivado en el dispositivo. ¿Quieres habilitarlo?</string>
+    <string name="button_enable_alert_gps">Habilitar GPS</string>
+    <string name="message_alert_see_map">Ver en el mapa</string>
+    <string name="message_alert_delete">Eliminar</string>
+    <string name="message_is_driving_user_title">¿Se encuentra dentro de un automóvil?</string>
+    <string name="message_is_driving_user_yes">Si</string>
+    <string name="message_is_driving_user_no">No</string>
+
+    <!--Message Permission -->
+    <string name="message_title_showMessageOKCancel">Permisos requeridos</string>
+    <string name="message_accept_showMessageOKCancel">Aceptar</string>
+    <string name="message_cancel_showMessageOKCancel">Cancelar</string>
+    <string name="message_permission_denied">Algunos permisos son denegados</string>
+    <string name="message_need_rationale">Debes otorgar acceso a</string>
+    <string name="message_gps">GPS</string>
+
+    <!--Message HomeFragment-->
+    <string name="message_name_campus">Nombre del Campus</string>
+    <string name="message_address_campus">Dirección</string>
+    <string name="message_any_campus">No te encuentras en ningún campus..!</string>
+</resources>
